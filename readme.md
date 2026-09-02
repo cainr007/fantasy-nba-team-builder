@@ -43,8 +43,3 @@ the player cards based on the data retrieved from the database.
 The advanced feature is primarily contained within GUI.py,
 with the player data being retrieved through BLL.py and DAL.py.
 The player images are contained within the Images folder.
-
-Finally, a general note that the View Players page may 
-take a little while to load because the application is 
-loading and displaying all of the player cards and images.
-At times, upwards of 60 seconds.
